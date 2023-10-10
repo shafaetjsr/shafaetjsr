@@ -7,9 +7,9 @@
 - 🔭 I’m currently working as a Software Engineer at **[Flora Systems](https://floralimited.com/)**
 
 
-- 🔭 I’m currently working on **[.NET Core](https://learn.microsoft.com/en-us/users/shafaetjsr/)**
+- 🔭 I’m currently working on **[.NET Core](https://github.com/shafaetjsr)**
   
-- 🌱 I’m currently learning **[ASP.NET](https://github.com/shafaetjsr)**
+- 🌱 I’m currently learning **[ASP.NET](https://learn.microsoft.com/en-us/users/shafaetjsr)**
 
 - 📫 How to reach me **shafaetjsr@gmail.com**
 
